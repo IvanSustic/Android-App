@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Base.Theme.DARK" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/color</item>
+        <item name="colorPrimaryDark">@color/color</item>
+        <item name="colorAccent">@color/color</item>
+        <item name="android:textColor">@color/color</item>
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:padding">2dp</item>
+        <item name="android:layout_marginTop">5dp</item>
+        <item name="android:layout_marginBottom">5dp</item>
+
+    </style>
+
+
+    <color name="color">#32240C</color>
+
+
+    <style name="Theme.DARK" parent="Base.Theme.DARK" />
+</resources>

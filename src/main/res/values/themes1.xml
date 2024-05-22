@@ -1,0 +1,21 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.LIGHT" parent="Theme.Material3.DayNight.NoActionBar">
+
+        <item name="colorPrimary">@color/color3</item>
+        <item name="colorPrimaryDark">@color/color3</item>
+        <item name="colorAccent">@color/color3</item>
+        <item name="android:textColor">@color/color3</item>
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:padding">2dp</item>
+        <item name="android:layout_marginTop">5dp</item>
+        <item name="android:layout_marginBottom">5dp</item>
+
+    </style>
+
+
+    <color name="color3">#C67E03</color>
+
+    <style name="Theme.LIGHT" parent="Base.Theme.LIGHT" />
+</resources>
